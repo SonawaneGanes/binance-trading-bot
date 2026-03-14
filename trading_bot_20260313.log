@@ -1,0 +1,4 @@
+2026-03-13 15:18:22 | INFO     | trading_bot | Logger initialised. Log file: logs/trading_bot_20260313.log
+2026-03-13 15:18:29 | INFO     | trading_bot | Logger initialised. Log file: logs/trading_bot_20260313.log
+2026-03-13 15:18:29 | DEBUG    | trading_bot.cli | Parsed CLI arguments: {'api_key': None, 'api_secret': None, 'symbol': 'BTCUSDT', 'side': 'BUY', 'order_type': 'LIMIT', 'quantity': 0.001, 'price': None, 'stop_price': None, 'tif': 'GTC', 'log_dir': 'logs', 'log_level': 'DEBUG'}
+2026-03-13 15:18:29 | ERROR    | trading_bot.cli | Validation error: A price is required for LIMIT orders.
